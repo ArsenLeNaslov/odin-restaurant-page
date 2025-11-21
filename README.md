@@ -3,8 +3,9 @@
 An orbital space station-themed restaurant webpage built as an assignment for The Odin Project. This project demonstrates dynamic JavaScript-driven content loading with Webpack, modular components, and responsive CSS styling to create an immersive online dining experience on an orbital station.
 
 Referencing Odin's Project: [Restaurant Page](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page)
+Live preview: [Odin's Orbital Station Restaurant Page](https://arsenlenaslov.github.io/odin-restaurant-page/).
 
-<img width="1901" height="918" alt="odin-restaurant-page" src="https://github.com/user-attachments/assets/dbd63698-ae52-40c7-b076-9ebf0d2485ce" />
+<img width="1901" height="918" alt="odin-restaurant-page" src="https://github.com/user-attachments/assets/77941e96-ff2a-4e0a-a848-03ad7efdaba5" />
 
 ## Features
 - **Dynamic Tab Navigation**: Switch between Home, Menu, and Contact pages without reloading.
